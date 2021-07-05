@@ -1,0 +1,7 @@
+C:\Users\ubedullah.patait\source\repos\StringValidate\StringValidate\bin\Debug\StringValidate.exe.config
+C:\Users\ubedullah.patait\source\repos\StringValidate\StringValidate\bin\Debug\StringValidate.exe
+C:\Users\ubedullah.patait\source\repos\StringValidate\StringValidate\bin\Debug\StringValidate.pdb
+C:\Users\ubedullah.patait\source\repos\StringValidate\StringValidate\obj\Debug\StringValidate.csproj.AssemblyReference.cache
+C:\Users\ubedullah.patait\source\repos\StringValidate\StringValidate\obj\Debug\StringValidate.csproj.CoreCompileInputs.cache
+C:\Users\ubedullah.patait\source\repos\StringValidate\StringValidate\obj\Debug\StringValidate.exe
+C:\Users\ubedullah.patait\source\repos\StringValidate\StringValidate\obj\Debug\StringValidate.pdb
